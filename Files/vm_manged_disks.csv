@@ -1,0 +1,3 @@
+vm_name,managed_disk_resource_group_name,zones,device_name,storage_account_type,create_option,disk_size_gb,lun,caching,disk_encryption_set,disk_encryption_set_smc
+sample-vm-01,azsws-shinf-npd01-RGP-01,1,data-disk1,Standard_LRS,Empty,100,10,ReadWrite,azsws-shinf-prd01-des01,azsws-shinf-prd01-RGP-01
+sample-vm-01,azsws-shinf-npd01-RGP-01,1,data-disk2,Standard_LRS,Empty,100,11,ReadWrite,,azsws-shinf-prd01-RGP-01
